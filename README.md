@@ -30,7 +30,6 @@ Churn analysis, also known as customer attrition or customer churn prediction, r
 
 ## About Dataset
 To get started, grab your own copy of our curated dataset by visiting the link below:
-Celebrity Faces Dataset
 <https://www.kaggle.com/competitions/playground-series-s4e1/data>
 
 This dataset describes various attributes of individual customers who have accounts at a specific banking institution. It includes information about their demographics, account activity, financial history, and behavioral patterns. Let's examine each attribute closely:

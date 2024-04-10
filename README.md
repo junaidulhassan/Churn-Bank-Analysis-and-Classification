@@ -37,7 +37,7 @@ This dataset describes various attributes of individual customers who have accou
 * id - Each record is assigned a unique identification number.
 * CustomerId - Every customer is assigned a distinct ID number serving as an internal reference for the bank.
 * Surname - The last name of the customer.
-* CreditScore - An assessment of a person's creditworthiness based upon past payment performance. Scores generally range between 300–850; higher scores indicate lower risk associated with lending money.
+* CreditScore - An assessment of a person's creditworthiness based on past payment performance. Scores generally range between 300–850; higher scores indicate lower risk associated with lending money.
 * Geography - Indicates the country where the customer resides (i.e., France, Spain, or Germany).
 * Gender - Identifies whether the customer is male or female.
 * Age - Chronological age of the client.

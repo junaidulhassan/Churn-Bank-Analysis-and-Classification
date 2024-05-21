@@ -1,4 +1,4 @@
-# Churn-Bank-Analysis-and-Classification
+# Churn-Bank Analysis and Classification
 
 In this project, we aim to analyze a provided dataset related to bank customer turnover, commonly referred to as 'bank churn.' By examining historical records, we intend to uncover underlying trends and patterns capable of forecasting whether a given bank client might discontinue their relationship with the organization. Applying advanced analytics and machine learning algorithms, our findings could enable banks to devise proactive measures aimed at reducing churn rates, boosting loyalty, and refining customer engagement tactics. Ultimately, these efforts would lead to improved business outcomes and enhanced value delivery across all stakeholders involved.
 

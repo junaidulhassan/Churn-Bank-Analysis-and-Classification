@@ -46,7 +46,7 @@ This dataset describes various attributes of individual customers who have accou
 * NumOfProducts - Count of different types of financial services used by the customer (such as loans, insurance policies, etc.).
 * HasCrCard - Specifies whether the customer possesses a credit card issued by the bank (1 indicates they do while 0 means otherwise).
 * IsActiveMember - Signals whether the client remains actively engaged with the bank's offerings (1 denotes active status whereas 0 signals non-active membership).
-* EstimatedSalary - Approximate income level derived based on employment details and publicly available statistics.
+* Estimated Salary - Approximate income level derived based on employment details and publicly available statistics.
 * `Exited` - Reflects whether the client terminated his/her relationship with the bank (1 represents exiting while 0 signifies still being an active customer).
 By analyzing these features, banks may develop targeted marketing strategies aimed at improving customer retention, increasing product adoption, detecting early signs of potential attrition, and enhancing overall profitability.
 

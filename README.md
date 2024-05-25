@@ -22,7 +22,7 @@ Churn analysis, also known as customer attrition or customer churn prediction, r
 
 * Preparation and cleaning of historical datasets containing relevant variables indicative of consumer preferences, behaviors, interactions, and transaction histories.
 * Feature engineering and selection to enhance predictive power via dimensionality reduction, correlation examination, and variable importance ranking methodologies.
-* Application and fine tuning of appropriate supervised modeling approaches, including logistic regression, decision trees, Random Forests, Support Vector Machines, Neural Networks, and XGBoost, among others.
+* Application and fine-tuning of appropriate supervised modeling approaches, including logistic regression, decision trees, Random Forests, Support Vector Machines, Neural Networks, and XGBoost, among others.
 * Model validation employing metrics such as accuracy, precision, recall, ROC curves, confusion matrices, lift charts, and Gini coefficients.
 * Implementation and continuous monitoring of selected models to facilitate timely intervention programs targeting susceptible clients and informing organizational strategy adjustments.
 * Ongoing evaluation of emerging trends and evolving customer expectations to ensure relevancy and adaptability of employed analytical frameworks.

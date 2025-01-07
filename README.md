@@ -43,7 +43,7 @@ This dataset describes various attributes of individual customers who have accou
 * Age - Chronological age of the client.
 * Tenure - Represents the duration (in years) since opening the first account with the bank.
 * Balance - Current amount of funds held within the primary checking or savings account.
-* NumOfProducts - Count of different types of financial services used by the customer (such as loans, insurance policies, etc.).
+* NumOfProducts - Count the different types of financial services used by the customer (such as loans, insurance policies, etc.).
 * HasCrCard - Specifies whether the customer possesses a credit card issued by the bank (1 indicates they do while 0 means otherwise).
 * IsActiveMember - Signals whether the client remains actively engaged with the bank's offerings (1 denotes active status whereas 0 signals non-active membership).
 * Estimated Salary - Approximate income level derived based on employment details and publicly available statistics.
